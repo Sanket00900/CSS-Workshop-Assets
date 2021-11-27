@@ -1,0 +1,260 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;1,400&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* ------------------------------------- */
+/* h2 {
+  color: blue;
+  background-color: red;
+} */
+
+/* h1 {
+  color: red;
+  color: rgb(255, 0, 0);
+  color: #ffb703;
+} */
+
+/* h2 {
+  text-align: center;
+  font-weight: lighter;
+  letter-spacing: 10px;
+} */
+
+/* p {
+  text-decoration: underline wavy red;
+  line-height: 35px;
+} */
+
+/* h2 {
+  font-size: 50px;
+} */
+
+/* h3 {
+  font-family: "Roboto";
+} */
+
+/* ------------------------------------------------- */
+
+/* * {
+  color: brown;
+} */
+
+/* h1 {
+  color: blue;
+} */
+
+/* h2,
+p {
+  color: purple;
+} */
+
+/* .container {
+  text-decoration: underline dotted blue;
+} */
+
+/* #para1 {
+  background-color: blueviolet;
+} */
+
+/* p span {
+  color: blue;
+} */
+
+/* li a {
+  color: orange;
+} */
+
+/* input[type="text"] {
+  color: yellow;
+} */
+
+/* input[type="text"] {
+  color: blue;
+} */
+
+/* ------------------------------------------- */
+
+/* h1:hover {
+  color: blue;
+} */
+
+/* h1:active {
+  color: red;
+} */
+
+/* h3:nth-of-type(n) {
+  color: blue;
+} */
+
+/* ------------------------------------------------- */
+
+/* p::first-letter {
+  font-size: 50px;
+  color: blue;
+} */
+
+/* p::first-line {
+  color: red;
+} */
+/*
+
+------------------------------------------------------- */
+
+/* h2 {
+  color: blue;
+  color: yellowgreen;
+  color: aqua;
+} */
+
+/* #id {
+  color: aqua;
+} */
+
+/* h2 {
+  color: blue;
+  color: brown;
+} */
+
+/* .cls {
+  color: chartreuse;
+} */
+
+/* ------------------------------------------------------ */
+
+/* .container {
+  width: 300px;
+  height: 200px;
+  background-color: pink;
+} */
+
+/* .container {
+  background-color: black;
+  width: 100px;
+  height: 100px;
+   border-width: 3px;
+  border-style: solid;
+ 
+  border-radius: 30px;
+  border: 3px dotted blue;
+} */
+
+/* .box1 {
+  width: 100px;
+  height: 100px;
+  background-color: brown;
+  border: 3px solid black;
+  padding: 10px;
+  margin-right: 20px;
+} */
+
+/* .box2 {
+  width: 200px;
+  height: 200px;
+  background-color: brown;
+  border: 3px solid black;
+  margin: 50px;
+  padding: 20px;
+} */
+
+/* .box3 {
+  width: 100px;
+  height: 100px;
+  background-color: aqua;
+  margin: auto;
+} */
+/* 
+.box {
+  background-color: black;
+  height: 100vh;
+  width: 30px;
+
+  height: 100px;
+  width: 100vw;
+} */
+
+/* -------------------------------------------------------- */
+
+/* .disp {
+  width: 50px;
+  height: 50px;
+  background-color: black;
+  margin: 10px;
+  display: inline-block;
+} */
+
+/* -------------------------------------------------------- */
+
+/* .alpha {
+  width: 100px;
+  height: 100px;
+  background-color: rgba(255, 0, 0, 0.5);
+} */
+
+/* -------------------------------------------------------- */
+
+/* .tran {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+} */
+
+/* .tran:hover {
+  transition: all 5s ease-out;
+  background-color: blue;
+  margin-left: 30px;
+} */
+
+/* -------------------------------------------------------- */
+/* .transform {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  margin: 30px 0 0 30px;
+} */
+
+/* .transform:hover {
+  transition: all 3s ease-out;
+  background-color: red;
+  transform: rotate(45deg);
+  transform: rotate3d(1, 0, 0, 80deg);
+} */
+
+/* .box1,
+.box2,
+.box3 {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  margin-top: 20px;
+  margin-left: 20px;
+} */
+
+/* .box2 {
+  background-color: brown;
+  transform: translateX(30px);
+} */
+
+/* -------------------------------------------------------- */
+
+/* .container {
+  width: 100vw;
+  height: 100vh;
+  background: url(https://images.pexels.com/photos/39284/macbook-apple-imac-computer-39284.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+} */
+
+/* -------------------------------------------------------- */
+
+/* .class1 {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+} */
+
+/* ----------------------------------------------------------- */
